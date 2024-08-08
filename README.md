@@ -33,3 +33,5 @@ Developed a multi-class emotion detection model using fine-tuned VGG16 with imag
 ![Sample Output 5](https://github.com/Himanshu-Atri/Emotion-Detection/blob/main/output-5.png)
 ### Sample Output 6:
 ![Sample Output 6](https://github.com/Himanshu-Atri/Emotion-Detection/blob/main/output-6.png)
+### Sample Output 7:
+![Sample Output 7](https://github.com/Himanshu-Atri/Emotion-Detection/blob/main/output-7.png)
