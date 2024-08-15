@@ -13,7 +13,7 @@ Developed a multi-class emotion detection model using fine-tuned VGG16 with imag
 1. Clone this repository
 2. Download the dataset from [here](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer). 
 3. Extract the dataset to your repository folder.
-4. Open the [Model jupyter notebook](https://github.com/Himanshu-Atri/Emotion-Detection/blob/main/emotion_dectector.ipynb)
+4. Open the [Model jupyter notebook](https://github.com/Himanshu-Atri/Emotion-Detection/blob/main/emotion_dectector_resnet50.ipynb)
 5. Run this notebook
 6. Run the [gui.py](https://github.com/Himanshu-Atri/Emotion-Detection/blob/main/gui_model.py) file
 7. Upload the Image you want to detect
